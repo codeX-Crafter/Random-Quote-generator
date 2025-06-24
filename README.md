@@ -13,5 +13,5 @@ This is a mini JavaScript web app that displays random quotes from Kanye West us
 - JavaScript (ES6+)
 - [Kanye REST API](https://api.kanye.rest/)
 
-# 📸 Screenshot
+# 📸 Preview
 ![screenshot](preview.png) 
